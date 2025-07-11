@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gkdlgkdl475/myweb:latest
+        image: gkdlgkdl475/cicd-k8s:latest
         ports:
         - containerPort: 8080
